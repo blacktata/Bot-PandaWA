@@ -1,7 +1,7 @@
 {
-  "name": "lbot-whatsapp",
+  "name": "Bot-PandaWA",
   "version": "1.16.4",
-  "description": "Bot brasileiro para Whatsapp com diversas utilidades para o dia-a-dia.",
+  "description": "Bot ROBADO para Whatsapp con muchos usos cotidianos.",
   "main": "app",
   "scripts": {
     "start": "node app.js",
